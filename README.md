@@ -7,6 +7,7 @@
 <code>git clone https://github.com/FSystem88/vk-covid</code><br>
 <code>cd vk-covid</code><br>
 <code>./install.sh</code><br>
+<code>python3 ~/vk-covid/setup.py</code><br>
 <br><br><br>
 • е каждый токен подходит. <br>
 • Чтобы получить нужный токен перейдите на официальную страницу ВК:<br>
