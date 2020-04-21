@@ -12,7 +12,7 @@
 <code>cd ~/vk-covid/</code><br>
 <code>python3 setup.py</code><br>
 <br><br><br>
-• е каждый токен подходит. <br>
+• Не каждый токен подходит. <br>
 • Чтобы получить нужный токен перейдите на официальную страницу ВК:<br>
 <a href="https://vk.com/covid19">https://vk.com/covid19</a><br>
 • Нажмите на клавиатуре F12 и на появившейся панеле перейдите во вкладку Network (обычно идет после вкладок Elements-Console-!Network!).<br>
