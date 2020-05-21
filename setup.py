@@ -75,7 +75,7 @@ def Main():
 			request_id=1
 			while True:
 				requests.post("https://api.vk.com/method/users.setCovidStatus?api_id=7362610&method=users.setCovidStatus&format=json&v=5.103&status_id={}&access_token={}&request_id={}".format(status_id,token,request_id))
-				if status_id == 17:
+				if status_id == 36:
 					status_id = 1
 				else:
 					status_id+=1
